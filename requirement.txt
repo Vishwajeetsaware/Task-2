@@ -1,0 +1,5 @@
+need the python version 10.10.3
+then install all the package in the code
+use the csv file as dataset given in GitHub run the code
+for seeing accuracy and losses you can change the value of epoch still by testing the accuracy of model is 88%
+in gui screen the upload option comes and he information is displayed
